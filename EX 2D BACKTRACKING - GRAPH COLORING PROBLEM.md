@@ -1,5 +1,5 @@
 # EX 2D BACKTRACKING - GRAPH COLORING PROBLEM
-## DATE: 31.03.2025
+## DATE: 15.04.2025
 ## AIM:
 To solve the Graph Coloring Problem using backtracking, assigning colors to the vertices of a graph such that no two adjacent vertices share the same color while minimizing the number of colors used.
 
