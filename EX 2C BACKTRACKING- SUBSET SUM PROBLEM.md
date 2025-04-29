@@ -1,5 +1,5 @@
 # EX 2C BACKTRACKING- SUBSET SUM PROBLEM
-## DATE: 31.03.2025
+## DATE: 08.04.2025
 ## AIM:
 To demonstrate that the sum of the subset of a given set is equal to the given sum.
 
